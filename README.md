@@ -1,6 +1,6 @@
 # DevOps Greenfield Project
 
-A full-stack web application with a React frontend and Node.js/Express backend connected to MongoDB.
+A web application with a React frontend and Node.js/Express backend connected to MongoDB.
 
 ## Project Structure
 
